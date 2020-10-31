@@ -1,8 +1,11 @@
 body {
-  background-color: grey;
+  background-color: #f1e7da;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 17px;
+  word-wrap: break-word;
+  word-spacing: 3px;
+  line-height: 1.6;
 }
 .header {
   background-color: tan;
@@ -54,11 +57,7 @@ body {
   clear: both;
   display: inline-block;
 }
-.row {
- font-size: 17px;
- text-align: left;
- color: white;
-}
+
 .column1 {
   float: left;
   width: 50%;
