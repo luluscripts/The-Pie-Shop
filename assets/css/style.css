@@ -57,7 +57,6 @@ body {
   clear: both;
   display: inline-block;
 }
-
 .column1 {
   float: left;
   width: 50%;
@@ -66,4 +65,8 @@ body {
   content: "";
   display: table;
   clear: both;
+}
+.column1 a {
+  text-decoration: none;
+  color: black;
 }
