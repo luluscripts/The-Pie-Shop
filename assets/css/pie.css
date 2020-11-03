@@ -41,13 +41,23 @@ body {
     content: "";
     clear: both;
     display: inline-block;
-  }
-.column img {
-   
-    -webkit-transform: scaleX(-1);
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
+}
+
+.btn {
+  position: relative;
+  width: 50%;
+  height: auto;
+  top: 50%;
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: black;
 }
   .footer {
     background-color: tan;
