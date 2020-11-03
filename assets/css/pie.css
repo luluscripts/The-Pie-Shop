@@ -42,22 +42,21 @@ body {
     clear: both;
     display: inline-block;
 }
-
 .btn {
-  position: relative;
-  width: 50%;
-  height: auto;
-  top: 50%;
-  background-color: #555;
-  color: white;
-  font-size: 16px;
-  padding: 12px 24px;
-  border: none;
-  cursor: pointer;
-  border-radius: 5px;
+    position: relative;
+    width: 50%;
+    height: auto;
+    top: 50%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
 }
 .btn:hover {
-  background-color: black;
+    background-color: black;
 }
   .footer {
     background-color: tan;
