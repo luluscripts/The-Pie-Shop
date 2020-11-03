@@ -42,7 +42,13 @@ body {
     clear: both;
     display: inline-block;
   }
-
+.column img {
+   
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
   .footer {
     background-color: tan;
     width: 100%;
