@@ -33,33 +33,119 @@ body {
 }
 .body {
   background-color: white;
+  margin-bottom: 50px;
 }
-.column {
-  width: 30%;
-  padding-top: 10px;
-  display: inline-block;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: inline-block;
-}
+
 .btn {
   position: relative;
-  width: 50%;
+  width: 30%;
   height: auto;
   top: 50%;
-  background-color: #555;
+  background-color: grey;
   color: white;
   font-size: 16px;
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 .btn:hover {
-  background-color: black;
+  background-color: #ddd;
 }
+
+.image-card {
+  background-color: black;
+  overflow: hidden;
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.8s, opacity 0.9s;
+  opacity: 1;
+}
+
+.image-card img:hover {
+  transform: scale(1.15);
+  opacity: 1;
+}
+
+.content-card {
+  text-align: center;
+  padding: 10px;
+}
+
+.apple-text {
+  font-weight: 700;
+}
+
+.apple-text:hover {
+  color: tan;
+}
+
+.apple-amount {
+  color: tomato;
+}
+
+.cherry-text {
+  font-weight: 700;
+}
+
+.cherry-text:hover {
+  color: tan;
+}
+
+.cherry-amount {
+  color: tomato;
+}
+
+.cottage-text {
+  font-weight: 700;
+}
+
+.cottage-text:hover {
+  color: tan;
+}
+
+.cottage-amount {
+  color: tomato;
+}
+
+.pumpkin-text {
+  font-weight: 700;
+}
+
+.pumpkin-text:hover {
+  color: tan;
+}
+
+.pumpkin-amount {
+  color: tomato;
+}
+.rhubarb-text {
+  font-weight: 700;
+}
+
+.rhubarb-text:hover {
+  color: tan;
+}
+
+.rhubarb-amount {
+  color: tomato;
+}
+
+.shepard-text {
+  font-weight: 700;
+}
+
+.shepard-text:hover {
+  color: tan;
+}
+
+.shepard-amount {
+  color: tomato;
+}
+
 .footer {
   background-color: #e2cfb6;
   width: 100%;
