@@ -40,3 +40,30 @@ body {
   margin-top: 40px;
   background-color: white;
 }
+
+.image-card {
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.8s, opacity 0.9s;
+    opacity: 0.7;
+  }
+  
+  .image-card img:hover {
+    transform: scale(1.15);
+    opacity: 1;
+  }
+  
+  .content-card {
+    text-align: center;
+    padding: 10px;
+  }
+
+.card-center {
+    margin: 0px auto;
+    width: 350px;
+}
