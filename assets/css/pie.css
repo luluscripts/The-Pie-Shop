@@ -158,3 +158,21 @@ body {
   height: 0;
   clear: both;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,th {
+  padding: 50px;
+}
+
+.images img {
+width: 40px;
+float: inherit;
+border-radius: 35%;
+margin: 5px 0 50px;
+}
+
