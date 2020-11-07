@@ -74,3 +74,10 @@ body {
     height: 70%;
     margin-bottom: 30px;
   }
+
+  .clear-fix {
+    content: " ";
+    display: table;
+    height: 0;
+    clear: both;
+  }
