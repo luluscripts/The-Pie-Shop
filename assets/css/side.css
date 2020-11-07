@@ -41,6 +41,23 @@ body {
   background-color: white;
 }
 
+.btn {
+  position: relative;
+  width: 30%;
+  height: auto;
+  top: 50%;
+  background-color: grey;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.btn:hover {
+  background-color: #ddd;
+}
+
 .image-card {
   background-color: black;
   overflow: hidden;
@@ -88,13 +105,14 @@ table {
   width: 100%;
 }
 
-td,th {
+td,
+th {
   padding: 50px;
 }
 
 .images img {
-width: 40px;
-float: inherit;
-border-radius: 35%;
-margin: 5px 0 50px;
+  width: 40px;
+  float: inherit;
+  border-radius: 35%;
+  margin: 5px 0 50px;
 }
