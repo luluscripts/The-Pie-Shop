@@ -5,5 +5,5 @@ body {
     text-align: left;
     font-size: 18px;
     word-wrap: break-word;
-    list-style: ;
+    word-break: break-all;
 }
