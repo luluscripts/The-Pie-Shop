@@ -7,5 +7,5 @@ body {
     line-height: inherit;
     font-weight: 700;
     word-spacing: 20px;
-    
+    word-wrap: none;
 }
