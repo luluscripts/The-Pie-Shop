@@ -1,5 +1,6 @@
 body {
  background-color: lightcoral;
  background-attachment: fixed;
+ line-height: inherit;
  
 }
