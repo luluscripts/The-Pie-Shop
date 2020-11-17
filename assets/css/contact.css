@@ -3,4 +3,5 @@ body {
   background-attachment: fixed;
   line-height: inherit;
   font-size: inherit;
+  list-style-image: inherit;
 }
