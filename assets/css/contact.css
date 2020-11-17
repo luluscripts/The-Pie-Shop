@@ -4,4 +4,6 @@ body {
   line-height: inherit;
   font-size: inherit;
   list-style-image: inherit;
+  word-wrap: none;
+  
 }
