@@ -5,5 +5,6 @@ body {
   font-size: inherit;
   list-style-image: inherit;
   word-wrap: none;
+  word-break: inherit;
   
 }
