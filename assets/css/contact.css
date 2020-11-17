@@ -7,4 +7,5 @@ body {
   word-wrap: none;
   word-break: inherit;
   word-spacing: inherit;
+  text-align: left;
 }
