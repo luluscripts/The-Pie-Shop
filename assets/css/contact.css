@@ -15,4 +15,6 @@ body {
 .header {
   background-color: khaki;
   word-wrap: none;
+  width: 100px;
+  
 }
