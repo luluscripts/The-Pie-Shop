@@ -4,4 +4,11 @@ body {
   height: 20px;
   line-break: inherit;
   word-wrap: none;
+  text-align: center;
+  font-size: 18px;
+  word-wrap: break-word;
+  word-spacing: 3px;
+  line-height: 1.6;
+  font-weight: lighter;
+}
 }
