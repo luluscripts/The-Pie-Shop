@@ -17,4 +17,5 @@ body {
   word-wrap: none;
   width: 100px;
   height: 50px;
+  text-emphasis: none;
 }
