@@ -28,4 +28,5 @@ body {
   background-attachment: fixed;
   background-color: khaki;
   word-wrap: none;
+  height: fit-content;
 }
