@@ -29,4 +29,5 @@ body {
   background-color: khaki;
   word-wrap: none;
   height: fit-content;
+  width: fit-content;
 }
