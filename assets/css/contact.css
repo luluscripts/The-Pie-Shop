@@ -1,8 +1,8 @@
 body {
- background-attachment: fixed;
- background-color: aliceblue;
+  background-attachment: fixed;
+  background-color: aliceblue;
   width: auto;
   height: 100px;
   page-break-after: auto;
-  
+  list-style: ;
 }
