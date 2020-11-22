@@ -6,5 +6,6 @@ body {
   page-break-after: auto;
   list-style: ;
   line-height: inherit;
+  word-wrap: none;
   
 }
