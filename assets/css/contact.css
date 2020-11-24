@@ -1,13 +1,4 @@
 body {
-  background-attachment: fixed;
-  background-color: aliceblue;
-  width: auto;
-  height: 100px;
-  page-break-after: auto;
-  list-style: ;
-  line-height: inherit;
-  word-wrap: none;
-  word-break: break-all;
-  color: aqua;
+  background-color: brown;
 }
 
