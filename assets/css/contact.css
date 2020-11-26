@@ -50,3 +50,14 @@ body {
 .image-card img:hover {
   opacity: 0.5;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  padding: 50px;
+}
