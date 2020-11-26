@@ -40,3 +40,13 @@ body {
   background-color: white;
   overflow: hidden;
 }
+
+.image-card img {
+  width: 80%;
+  height: auto;
+  opacity: 0.5;
+}
+
+.image-card img:hover {
+  opacity: 1.0;
+}
