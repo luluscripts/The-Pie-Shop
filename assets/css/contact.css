@@ -16,5 +16,7 @@ body {
 }
 
 .topnav {
-
+  overflow: hidden;
+  margin-left: auto;
+  
 }
