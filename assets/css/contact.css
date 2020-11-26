@@ -26,5 +26,6 @@ body {
   color: black;
   padding: 14px 16px;
   text-decoration: none;
+  display: inline-block;
   
 }
