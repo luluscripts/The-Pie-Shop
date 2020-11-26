@@ -44,9 +44,9 @@ body {
 .image-card img {
   width: 80%;
   height: auto;
-  opacity: 0.5;
+  opacity: 1.0;
 }
 
 .image-card img:hover {
-  opacity: 1.0;
+  opacity: 0.5;
 }
