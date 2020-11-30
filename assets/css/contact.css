@@ -15,7 +15,7 @@ body {
   height: 40px;
   font-size: large;
   font-weight: lighter;
-  
+  line-height: inherit;
 }
 
 .topnav {
