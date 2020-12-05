@@ -71,5 +71,6 @@ th {
 
 .clear-fix {
   content: " ";
+  display: table;
   
 }
